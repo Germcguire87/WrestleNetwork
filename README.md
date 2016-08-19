@@ -1,2 +1,2 @@
 # WrestleNetwork
-What the WWE could be with access to all promotions and better search filtering.
+What the WWE Network could be with access to all promotions and better search filtering.
